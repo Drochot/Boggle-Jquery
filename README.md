@@ -1,1 +1,1 @@
-Boggle Jquery
+Boggle
